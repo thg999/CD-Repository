@@ -69,3 +69,28 @@ void main()
 		printf("\b\b\b\n");
 	}
 }
+
+
+
+/*
+
+/tmp/3oPgyHQiM4.o
+Enter the no. of nonterminals : 2
+Nonterminal 1 
+Enter the no. of productions : 3
+Enter LHS : S
+S->iCtSeS
+S->iCtS
+S->a
+Nonterminal 2 
+Enter the no. of productions : 1
+Enter LHS : C
+C->b
+The resulting productions are : 
+
+ S' -> �| eS |  |  
+
+ C ->  b 
+
+ S ->  iCtSS' | a 
+*/
