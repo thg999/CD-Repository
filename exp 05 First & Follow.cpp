@@ -141,3 +141,25 @@
         }
         return 0;;
     }
+
+
+
+/*
+
+/tmp/nwnUG01YAc.o
+Enter the productions
+S->ABC
+A->ghi
+A->jkl
+A->a
+A->b
+A->c
+B->b
+D->d
+end
+S	gjabc	#
+A	gjabc	#b
+B	b	gjabc
+D	d	
+
+*/
